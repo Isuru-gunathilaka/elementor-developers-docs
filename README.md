@@ -2,7 +2,7 @@
     <img width="300" src="https://developers.elementor.com/docs/assets/img/logo.svg" alt="Elementor Logo">
 </div>
 
-# Elementor Developers Docs
+# Wordpress Elementor Developers Docs
 
 Resources and tutorials for Elementor developers.
 
